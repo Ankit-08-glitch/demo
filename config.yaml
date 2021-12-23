@@ -1,0 +1,9 @@
+database:
+  hostname: localhost
+  user: postgres
+  password: Ankit08!
+  dbname: demo_db
+  port: 5432
+
+server:
+  port: :8081

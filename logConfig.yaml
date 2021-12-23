@@ -1,0 +1,5 @@
+filename: logfile
+MaxSize: 1
+MaxBackups: 10
+MaxAge: 28
+LogLevel: Debug

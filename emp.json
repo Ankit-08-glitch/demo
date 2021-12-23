@@ -1,0 +1,10 @@
+{
+  "emp":
+   [
+    {
+      "empId": 6,
+      "name": "Shubham",
+      "department": "React"
+    }
+  ]
+}
