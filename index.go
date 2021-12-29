@@ -22,5 +22,5 @@ func main() {
 }
 
 func Version(context echo.Context) error {
-	return context.JSON(http.StatusOK, map[string]interface{}{"version": 4})
+	return context.JSON(http.StatusOK, map[string]interface{}{"version": 7})
 }
